@@ -1,46 +1,46 @@
 // Project Data
-const projects = [
-    {
-        id: 1,
-        title: "E-commerce Platform",
-        description: "A full-featured e-commerce platform built with Laravel and Vue.js, featuring product management, cart functionality, and payment integration.",
-        image: "https://via.placeholder.com/300x200",
-        category: "laravel",
-        tech: ["Laravel", "Vue.js", "MySQL", "Stripe API"],
-        demoLink: "#",
-        githubLink: "#"
-    },
-    {
-        id: 2,
-        title: "Task Management System",
-        description: "A comprehensive task management application developed with CodeIgniter and jQuery, with real-time updates and team collaboration features.",
-        image: "https://via.placeholder.com/300x200",
-        category: "codeigniter",
-        tech: ["CodeIgniter", "jQuery", "MySQL", "Bootstrap"],
-        demoLink: "#",
-        githubLink: "#"
-    },
-    {
-        id: 3,
-        title: "React Dashboard",
-        description: "A modern admin dashboard built with React.js and PHP backend, featuring data visualization, user management, and reporting tools.",
-        image: "https://via.placeholder.com/300x200",
-        category: "react",
-        tech: ["React.js", "PHP", "MySQL", "Chart.js"],
-        demoLink: "#",
-        githubLink: "#"
-    },
-    {
-        id: 4,
-        title: "Vue.js SPA",
-        description: "A single-page application developed with Vue.js and PHP API, showcasing modern frontend development practices and responsive design.",
-        image: "https://via.placeholder.com/300x200",
-        category: "vue",
-        tech: ["Vue.js", "PHP", "MySQL", "Axios"],
-        demoLink: "#",
-        githubLink: "#"
-    }
-];
+// const projects = [
+//     {
+//         id: 1,
+//         title: "E-commerce Platform",
+//         description: "A full-featured e-commerce platform built with Laravel and Vue.js, featuring product management, cart functionality, and payment integration.",
+//         image: "https://via.placeholder.com/300x200",
+//         category: "laravel",
+//         tech: ["Laravel", "Vue.js", "MySQL", "Stripe API"],
+//         demoLink: "#",
+//         githubLink: "#"
+//     },
+//     {
+//         id: 2,
+//         title: "Task Management System",
+//         description: "A comprehensive task management application developed with CodeIgniter and jQuery, with real-time updates and team collaboration features.",
+//         image: "https://via.placeholder.com/300x200",
+//         category: "codeigniter",
+//         tech: ["CodeIgniter", "jQuery", "MySQL", "Bootstrap"],
+//         demoLink: "#",
+//         githubLink: "#"
+//     },
+//     {
+//         id: 3,
+//         title: "React Dashboard",
+//         description: "A modern admin dashboard built with React.js and PHP backend, featuring data visualization, user management, and reporting tools.",
+//         image: "https://via.placeholder.com/300x200",
+//         category: "react",
+//         tech: ["React.js", "PHP", "MySQL", "Chart.js"],
+//         demoLink: "#",
+//         githubLink: "#"
+//     },
+//     {
+//         id: 4,
+//         title: "Vue.js SPA",
+//         description: "A single-page application developed with Vue.js and PHP API, showcasing modern frontend development practices and responsive design.",
+//         image: "https://via.placeholder.com/300x200",
+//         category: "vue",
+//         tech: ["Vue.js", "PHP", "MySQL", "Axios"],
+//         demoLink: "#",
+//         githubLink: "#"
+//     }
+// ];
 
 // DOM Elements
 const themeToggle = document.querySelector('.theme-toggle');
